@@ -1,0 +1,47 @@
+[
+  {
+    "name": "next-auth.csrf-token",
+    "value": "50cdba2fa86277600171e73101cab7afbbf5606f2a3b2517d5bc21ef3020e3b1%7C69b6849a863b66d1828161da4e2ab66069d5e1cd9614aab57606cb1d6fb02c3a",
+    "domain": "localhost",
+    "path": "/",
+    "expires": -1,
+    "size": 151,
+    "httpOnly": true,
+    "secure": false,
+    "session": true,
+    "sameSite": "Lax",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "NonSecure"
+  },
+  {
+    "name": "next-auth.callback-url",
+    "value": "http%3A%2F%2Flocalhost%3A3000",
+    "domain": "localhost",
+    "path": "/",
+    "expires": -1,
+    "size": 51,
+    "httpOnly": true,
+    "secure": false,
+    "session": true,
+    "sameSite": "Lax",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "NonSecure"
+  },
+  {
+    "name": "next-auth.session-token",
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..fSMTfpc6_Uf8SG4A.n39sihszk0DW7aJ9eA1jCvtSjbQEKMyzhNaJPnQw8QbXL97ZM0lgrq3Q6bKg5tEbzp1ZsRT-jCM6qw8fTABy9pYppCbjbJxTj4SbUZfgEBDRESWSg8hq6ZH16t-hZ2NJ0JcszUNdLYqd_Q0cYKFDy-vpdsp3QNsOjp4j-vg_o4DxUpObldqMlg.1M7mRF6vGskvZyRntonQjw",
+    "domain": "localhost",
+    "path": "/",
+    "expires": 1742102200.907473,
+    "size": 286,
+    "httpOnly": true,
+    "secure": false,
+    "session": false,
+    "sameSite": "Lax",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "NonSecure"
+  }
+]
